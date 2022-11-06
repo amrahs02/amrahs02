@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amrahs02
 - 👀 I’m interested in Problem Solving
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me sandeepsharma2183+contact@gmail.com
+- 📫 How to reach me sandeepsharma2183+github@gmail.com
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
