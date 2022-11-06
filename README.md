@@ -8,7 +8,7 @@
 </div>  
   
 
-### <div align="center">I'm Sandeep, a Web developer, Problem Solver.</div>  
+### <div align="center">I'm Sandeep, a Web developer, Programmer, Problem Solver.</div>  
   
 
 - 🔭 I’m currently working on [Portfolio Website](https://amrahs02.github.io/portfolio)  
