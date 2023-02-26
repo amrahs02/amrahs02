@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amrahs02
 - 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me sandeepsharma2183+github@gmail.com
 
 <div align="center">
@@ -11,7 +11,7 @@
 ### <div align="center">I'm Sandeep, a Web developer, Programmer, Problem Solver.</div>  
   
 
-- 🔭 I’m currently working on [Portfolio Website](https://amrahs02.github.io/portfolio)  
+- 🔭 I’m currently working on a CHAT APP  
   
 
 - 🌱 I’m currently learning Javascript and React.js  
