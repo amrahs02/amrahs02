@@ -11,7 +11,7 @@
 ### <div align="center">I'm Sandeep, a Web developer, Programmer, Problem Solver.</div>  
   
 
-- 🔭 I’m currently working on a CHAT APP  
+- 🔭 I’m currently working on a GOOGLE KEEP CLONE  
   
 
 - 🌱 I’m currently learning Javascript and React.js  
