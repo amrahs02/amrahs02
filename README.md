@@ -38,10 +38,10 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 - 🔭 I’m currently working on [Google Keep Clone](https://amrahs02.github.io/portfolio/)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning React
   
 
--   
+
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
