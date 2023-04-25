@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sandeep Sharma!  
+## Hey 👋, I'm Sandeep Kumar Sharma!  
   
 
 
@@ -53,7 +53,7 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://amrahs02.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
 
@@ -85,11 +85,11 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrahs02&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -99,13 +99,4 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+![Profile views counter](https://komarev.com/ghpvc/?username=amrahs02&&style=flat-square)  
