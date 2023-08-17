@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sandeep Kumar Sharma!  
   
 
-![banner](https://github.com/rupali-codes/rupali-codes/assets/78981177/536f1b07-34e0-48f4-97dd-d9e22d8d7748)
+![banner]()
 
 <p align="center"> 
   <a href="https://twitter.com/amrahs02">
@@ -30,12 +30,12 @@
 
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=js,react, c, arduino,c++, firebase,next,redux,materialui,vscode,linux, mysql, " />
+    <img src="https://skillicons.dev/icons?i=js,react,c,arduino,c++,firebase,next,redux," />
   </a>
 </p>
 <p align="center">
   <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,vercel,materialui,vscode,linux,mysql," />
   </a>
 </p>
 <br/>  
@@ -44,11 +44,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 120%" />
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrahs02&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrahs02&hide_border=true&layout=compact" align="left" style="width: 80%" />
 
 </td></tr></table>  
 
