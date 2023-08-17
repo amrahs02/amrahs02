@@ -29,12 +29,12 @@
 ### <p align="center">Technical Skills</p>
 
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
-    <img src="https://skillicons.dev/icons?i=js,react,c,arduino,c++,firebase,next,redux," />
+  <a href="https://amrahs02.github.io/portfolio_modified">
+    <img src="https://skillicons.dev/icons?i=js,react,c,arduino,cpp,firebase,next,redux," />
   </a>
 </p>
 <p align="center">
-  <a href="https://rupali-codes.netlify.app">
+  <a href="https://amrahs02.github.io/portfolio_modified">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,vercel,materialui,vscode,linux,mysql," />
   </a>
 </p>
