@@ -1,83 +1,43 @@
 ## Hey 👋, I'm Sandeep Kumar Sharma!  
   
 
+![banner](https://github.com/rupali-codes/rupali-codes/assets/78981177/536f1b07-34e0-48f4-97dd-d9e22d8d7748)
 
-
-### FRONTEND DEVELOPER  
-<a href="https://twitter.com/amrahs02" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter  style="margin-bottom: 5px; border-radius: 50px;" />
-</a>
-<a href="https://instagram.com/sandeepsharma.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/amrahs02" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/sandeepsharma2183" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/sandeepsharma2183" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+<p align="center"> 
+  <a href="https://twitter.com/amrahs02">
+    <img src="https://img.shields.io/badge/Twitter-465149?style=for-the-badge"/>
+    
+  </a>
   
-
-
-
-### Glad to see you here!  
-I’m a frontend developer 
-
-I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
+   <a href="https://amrahs02.github.io/portfolio_modified">
+    <img src="https://img.shields.io/badge/Portfolio-465149?style=for-the-badge"/>
+  </a>
   
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Google Keep Clone](https://amrahs02.github.io/portfolio/)  
+  <a href="https://www.linkedin.com/in/sandeepsharma2183">
+    <img src="https://img.shields.io/badge/LinkedIn-465149?style=for-the-badge"/>
+  </a>
   
+   <a href="mailto:sandeepsharma2183@gmail.com">
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
+  </a>
+ 
+</p>
 
-- 🌱 I’m currently learning React
-  
-
-
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-
-- I'm Sandeep, a Web developer, Programmer, Problem Solver.  
+<p align="center"> I'm a Fronted developer with a passion of creating impactful and scalable web applications with using latest trends and technolgies. I love to making new things that live on internet. Everyday, I'm improving my skills and trying to become a better version of me.</p>
 
 
-</td><td valign="top" width="50%">
+### <p align="center">Technical Skills</p>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>   
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-</div>  
-
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=js,react, c, arduino,c++, firebase,next,redux,materialui,vscode,linux, mysql, " />
+  </a>
+</p>
+<p align="center">
+  <a href="https://rupali-codes.netlify.app">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,vercel" />
+  </a>
+</p>
 <br/>  
 
 
