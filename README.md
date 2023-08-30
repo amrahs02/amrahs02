@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Sandeep Kumar Sharma!  
   
 
-![banner](https://github.com/amrahs02/amrahs02/blob/main/Sandeep%20Sharma.gif)
+![banner](https://github.com/amrahs02/amrahs02/blob/main/Sandeep%20Kumar%20Sharma.gif)
 
 <p align="center"> 
   <a href="https://twitter.com/amrahs02">
