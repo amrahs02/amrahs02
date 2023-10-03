@@ -40,6 +40,13 @@
 </p>
 <br/>  
 
+## Badges
+[![An image of @amrahs02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrahs02)](https://holopin.io/@amrahs02)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrahs02&show_icons=true&locale=en&layout=compact" alt="amrahs02" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&locale=en" alt="amrahs02" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahs02&" alt="amrahs02" /></p>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
