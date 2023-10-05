@@ -40,26 +40,18 @@
 </p>
 <br/>  
 
+
 ## Badges
 [![An image of @amrahs02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amrahs02)](https://holopin.io/@amrahs02)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrahs02&show_icons=true&locale=en&layout=compact" alt="amrahs02" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&locale=en" alt="amrahs02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahs02&" alt="amrahs02" /></p>
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amrahs02&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 120%" />
-
-</td><td valign="top" width="100%">
 
 
-</td></tr></table>  
 
-<br/>  
-![LeetCode Stats](https://leetcard.jacoblin.cool/amrahs02?theme=dark&font=Inder)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrahs02&" alt="amrahs02" />
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amrahs02)](https://github.com/amrahs02/github-contribution-stats/)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrahs02&show_icons=true&locale=en&layout=compact" alt="amrahs02" />
+
   
 
 <br/>  
