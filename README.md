@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Sandeep Kumar Sharma!  
   
-![Sandeep Kumar Sharma](https://github.com/amrahs02/amrahs02/assets/65103353/d65e0716-44f7-4477-949a-d22793cf16e4)
+![Sandeep Kumar Sharma](https://github.com/amrahs02/amrahs02/blob/main/Colorful%20Minimalist%20Personal%20LinkedIn%20Banner.gif)
 
 
 <p align="center"> 
