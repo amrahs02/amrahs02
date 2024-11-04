@@ -20,19 +20,28 @@
   </a>
 </p>
 
-<p align="center"> I'm a Frontend developer passionate about creating impactful and scalable web applications using the latest trends and technologies. I love building new things that live on the internet. Every day, I'm improving my skills and striving to become a better version of myself.</p>
+<p align="center"> I'm a Full Stack Developer passionate about creating impactful and scalable web applications using the latest trends and technologies. I love building new things that live on the internet. Every day, I'm improving my skills and striving to become a better version of myself.</p>
 
 ### <p align="center">Technical Skills</p>
 
+####  <p align="center">Frontend</p>
 <p align="center">
   <a href="https://amrahs02.github.io/portfolio_modified">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,redux,next,tailwind,bootstrap,figma,git,github,vercel,materialui,vscode,linux,mysql,nodejs,express,mongodb" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,redux,next,tailwind,bootstrap,materialui,figma" />
   </a>
 </p>
 
-<p align="center">  
+#### <p align="center">Backend </p>
+<p align="center">
   <a href="https://amrahs02.github.io/portfolio_modified">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,firebase,postman,webpack,docker,babel,typescript" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+  </a>
+</p>
+
+####  <p align="center">Tools & Other Technologies</p>
+<p align="center">
+  <a href="https://amrahs02.github.io/portfolio_modified">
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,linux,postman,webpack,docker,babel,typescript,c,cpp,arduino" />
   </a>
 </p>
 <br/>  
